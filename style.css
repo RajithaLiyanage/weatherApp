@@ -10,7 +10,7 @@ header {
     height: 100px;
     background-color: lightblue;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
     box-shadow: 3px 3px 3px #ccc;
 }
 
@@ -68,7 +68,7 @@ header h1 {
 
 #weather h1 {
     font-size: 32px;
-    margin-top: 0;
+    margin-top: 0px;
     margin-bottom: 30px;
 }
 
